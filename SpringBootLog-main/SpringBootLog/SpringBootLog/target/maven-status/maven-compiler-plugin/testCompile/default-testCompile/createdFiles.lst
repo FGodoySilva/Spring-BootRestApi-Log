@@ -1,0 +1,5 @@
+br\com\fabiane\SpringBootLog\controller\LogControllerTests.class
+br\com\fabiane\SpringBootLog\service\LogServiceTests.class
+br\com\fabiane\SpringBootLog\SmartLogApplicationTests.class
+br\com\fabiane\SpringBootLog\repository\LogRepositoryTests.class
+br\com\fabiane\SpringBootLog\controller\LogControllerTests$SpringBootTestConfig.class

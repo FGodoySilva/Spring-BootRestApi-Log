@@ -1,0 +1,13 @@
+br\com\fabiane\DesafioSpringLog\repository\LogRepository.class
+br\com\fabiane\DesafioSpringLog\controller\LogController.class
+br\com\fabiane\DesafioSpringLog\utils\Formatting.class
+br\com\fabiane\DesafioSpringLog\utils\FilesIO.class
+br\com\fabiane\DesafioSpringLog\SmartLogApplication.class
+br\com\fabiane\DesafioSpringLog\spring\config\SpringSecurityConfig.class
+br\com\fabiane\DesafioSpringLog\spring\batch\LogItemProcessor.class
+br\com\fabiane\DesafioSpringLog\spring\batch\LogFieldSetMapper.class
+br\com\fabiane\DesafioSpringLog\service\LogServiceImpl.class
+br\com\fabiane\DesafioSpringLog\service\LogService.class
+br\com\fabiane\DesafioSpringLog\spring\batch\LogItemWriter.class
+br\com\fabiane\DesafioSpringLog\spring\config\SpringBatchConfig.class
+br\com\fabiane\DesafioSpringLog\model\LogModel.class

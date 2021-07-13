@@ -1,0 +1,13 @@
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\repository\LogRepository.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\utils\Formatting.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\spring\config\SpringBatchConfig.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\model\LogModel.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\spring\batch\LogItemWriter.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\controller\LogController.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\service\LogServiceImpl.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\spring\batch\LogFieldSetMapper.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\utils\FilesIO.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\SmartLogApplication.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\spring\batch\LogItemProcessor.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\spring\config\SpringSecurityConfig.java
+D:\DesafioSpringBootLog\SpringBootLog\src\main\java\br\com\fabiane\SpringBootLog\service\LogService.java
